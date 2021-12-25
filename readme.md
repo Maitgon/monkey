@@ -1,0 +1,1 @@
+Interpreter for a language called monkey following the instructions of the book: writing an INTERPRETER in go
